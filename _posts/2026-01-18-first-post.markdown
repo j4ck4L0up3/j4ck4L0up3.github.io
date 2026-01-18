@@ -17,4 +17,4 @@ The pages I plan to start with are:
 - Goals for 2026
 - Revisiting Old Failures
 
-This site will be Jekyll-based, since that is the recommended usage for GitHub Pages and I don't enjoy web design.
+Stay tuned for updates!
